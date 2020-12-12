@@ -1,7 +1,7 @@
 // Write your Character component here
 import React from 'react'
 import CharacterCard from "./CharacterCard"
-import styled from "styled-components"
+
 
 // const 
 
